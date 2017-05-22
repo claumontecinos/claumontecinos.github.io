@@ -74,6 +74,13 @@ a {
   font-size: 200%
 }
 
+#subtext h2{
+  color: rgb(100,100,100);
+  padding-bottom: 3%;
+  text-align: justify;
+  display: block;
+  font-size: 150%
+}
 /*css for element with id myNavMenu*/
 #myNavMenu {
     position:relative;
